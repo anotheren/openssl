@@ -15,4 +15,4 @@ Pod::Spec.new do |s|
 end
 
 # pod repo add anotheren https://github.com/anotheren/Specs.git
-# pod repo push openssl openssl.podspec --allow-warnings
+# pod repo push anotheren openssl.podspec --allow-warnings
