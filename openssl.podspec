@@ -13,3 +13,6 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = 'frameworks/openssl.framework'
     
 end
+
+# pod repo add anotheren https://github.com/anotheren/Specs.git
+# pod repo push openssl openssl.podspec --allow-warnings
